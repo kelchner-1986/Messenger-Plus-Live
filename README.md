@@ -220,3 +220,6 @@ Messenger Plus! Live is provided as a full free version with all features and up
 ---
 
 Download Messenger Plus! Live today and elevate your Windows Live Messenger experience!
+
+---
+**Last updated:** 2026-09-16 13:48:23 UTC
